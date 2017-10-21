@@ -29,6 +29,7 @@ menu(){
     fi
     read temp
     menu;
+    ฆวยไร
 }
 
 echo "Welcome! EzGIT";
